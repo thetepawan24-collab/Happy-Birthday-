@@ -1,0 +1,10 @@
+Happy Birthday My gorgeous Queen ♥️👸🏻
+ maazh god baal happy birthday mazh pillu 🤌🏻🩷. tuzhya sathi tr nhi pn ajj ch divs mazhya sathi khup imp ani sukhacha ahe karn mhitiye ka ? karn ajj eka sundar mulicha janma zhala ani te pn mazhya jivanat yenya sathi 😌. mala tr aai pappache kiti dhanyawad bolu tari kamich ahe evdh sundar product dil tyani mazhya sathi 🤗. mi jevha he lihat hoto tya timr la mala vatl ki marathi madhech lihilo karan apli bhasha shevti aplich ya peksha chnagli goshti bhasha nhi jyat mi tula khi sangu shkto, ajj mazh baal 21 varshach zhal tri mazhyasathi te mazh baalch ahe chot chot 🐤. ajjcha divs mazhya sathi khup changla ahe tymule mi bhole baba la mazhi prarthana ahe ki mazhya parvati la mhanjech mazhya sujata la sukhi thev ani te sukhach karan mi asu de karn malach tila nehmi sukhi thevych ahe , tila nehmi nirogi thev nehmi tichya pathichi raha ani tila je hava ahe te sagl tila bhetu de ,ani amchya doghanchi manatli iccha purn hou de amhi kadhich tumhala visarnar nhi baba 🔱. pillu tu fakt mazhya sathi nhi saglyan sathich sukhach karan ahe tumzhya mule nehmi saglyanchya cheharyavr hasu ast tyamulech tu saglyanchi avadti ahe specially aai pappa 💕. nehmi asch hasat khelat raha . bgh baal he type kartani pn 11.11 time zhala😄. tuzhyasobt ghatlela pratek vel mazhya sathi khup maulyawaan ahe.3 varsha zhale apn sob ahe he 3 varsha mazhya sathi 30 varsha peksha jast changle ahe as mazhya sobt nehmi raha tula mhit he n aplyala sobt life spend karaychi ahe n baal. parat ekda baal tula Vadhdivsachya hardik subetcha mazhi dhubreyyy😚🫀🫶🏻 ✨
+❤️
+
+<button class="btn" onclick="showMessage()">Click For Surprise 🎁</button>
+
+<div class="hidden-message" id="message">
+  I Love You So Much Mazhi Bayko ♥️🫶🏻<br>
+  Iam Always With You ♾️✨
+</div>
